@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FiestaChibiHalloween</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Creditos">Créditos</string>
+    <string name="Opciones">Ociones</string>
+    <string name="opciones">Opciones</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Salir">Salir</string>
+    <string name="Puntuaciones">Puntuaciones</string>
+    <string name="Creador1">Miguel Mercado Figueroa</string>
+    <string name="Pausa">Pausa</string>
+
+</resources>
